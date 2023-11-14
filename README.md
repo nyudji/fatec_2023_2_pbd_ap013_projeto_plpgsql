@@ -1,4 +1,4 @@
-# fatec_2023_2_pbd_ap013_projeto_plpgsql
+# fatec_2023_2_pbd_ap013_projeto_plpgsql - Projeto_PBD_PLPGSQL_CSV_SP_FN
 Mini projeto de programação em banco, com blocos anonimos, stored procedures e funções
 
 
